@@ -1,0 +1,17 @@
+.panel-tabs {
+  align-items: flex-end;
+  display: flex;
+  font-size: .875em;
+  justify-content: center;
+}
+
+.panel-tabs a.is-active {
+  border-bottom-color: #4a4a4a;
+  color: #363636;
+}
+
+.panel-tabs a {
+  border-bottom: 1px solid #dbdbdb;
+  margin-bottom: -1px;
+  padding: .5em;
+}
