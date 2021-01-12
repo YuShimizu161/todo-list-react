@@ -23,6 +23,11 @@ class App extends Component {
         key: 3,
         text: 'タスク3',
         done: true
+      },
+      {
+        key: 4,
+        text: 'タスク4',
+        done: true
       }
     ];
     this.state = {
